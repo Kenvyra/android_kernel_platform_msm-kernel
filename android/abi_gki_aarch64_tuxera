@@ -202,7 +202,6 @@ simple_strtoul
 simple_strtoull
 sprintf
 __stack_chk_fail
-__stack_chk_guard
 strchr
 strcmp
 strlen
